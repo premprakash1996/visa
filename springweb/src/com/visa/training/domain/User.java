@@ -4,6 +4,16 @@ public class User {
 	
 	String name;
 	String password;
+	
+	public User() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+	public User(String name, String password) {
+		super();
+		this.name = name;
+		this.password = password;
+	}
 	public String getName() {
 		return name;
 	}
