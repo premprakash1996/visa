@@ -6,4 +6,7 @@ public class A {
 		//ha
 	}
 
+	public void doY(){
+		//he
+	}
 }
