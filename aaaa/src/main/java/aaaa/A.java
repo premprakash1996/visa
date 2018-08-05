@@ -2,7 +2,7 @@ package aaaa;
 
 public class A {
 	
-	public void doX(){
+	public void doX(int x){
 		//ha
 	}
 
