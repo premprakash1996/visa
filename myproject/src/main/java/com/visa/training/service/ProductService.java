@@ -21,8 +21,8 @@ public class ProductService {
 		System.out.println("[From within service. Get object of DAO]");
 	}
 
-	public void delete(int id) {
-		dao.delete(id);
+	public void delete(int prid) {
+		dao.delete(prid);
 	}
 
 	public void changePrice(int id, float newPrice) {
